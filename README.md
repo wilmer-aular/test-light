@@ -1,8 +1,8 @@
-# proyecto realizado en `node.js.`
+# Ejercicio realizado en `node.js.`
 
-# motor de plantilla `ejs`.
+# Motor de plantilla `ejs`.
 
-# ejecutar `npm i` o `npm install`.
+# Ejecutar `npm i` o `npm install`.
 
 ### para correr el proyecto ejecutar: `npm start`
 
